@@ -25,4 +25,4 @@ This project simulates an IoT-based temperature monitoring system using ESP32 an
 ![Graph](Screenshots/temperature_graph.png)
 
 ### Serial Output
-![Output](Screenshots/output.png)
+![Output](Screenshots/Output.png)
