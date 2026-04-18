@@ -16,3 +16,12 @@ This project simulates an IoT-based temperature monitoring system using ESP32 an
 
 ## 🚀 Output
 - Temperature graph on ThingSpeak
+## 📸 Screenshots
+
+### Graph Output
+![Graph](screenshots/graph.png)
+![Graph](screenshots/alert_graph.png)
+![Graph](screenshots/temperature_graph.png)
+
+### Serial Output
+![Output](screenshots/Output.png)
